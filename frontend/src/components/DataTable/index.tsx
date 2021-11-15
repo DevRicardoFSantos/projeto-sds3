@@ -31,7 +31,7 @@ const DataTable = () => {
             <td>Thialla Lima</td>
             <td>34</td>
             <td>25</td>
-            <td>15017.00</td>
+            <td>R$ 15.017,45</td>
           </tr>
           <tr>
             <td>22/04/2021</td>
